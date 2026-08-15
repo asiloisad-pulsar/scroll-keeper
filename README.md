@@ -12,7 +12,7 @@ Maintain scroll position during pane resizing and shared-buffer edits. Keeps you
 
 ## Installation
 
-To install `scroll-keeper` search for [scroll-keeper](https://web.pulsar-edit.dev/packages/scroll-keeper) in the Install pane of the Pulsar settings or run `ppm install scroll-keeper`. Alternatively, you can run `ppm install asiloisad/pulsar-scroll-keeper` to install a package directly from the GitHub repository.
+To install `scroll-keeper` search for [scroll-keeper](https://web.pulsar-edit.dev/packages/scroll-keeper) in the Install pane of the Pulsar settings or run `ppm install scroll-keeper`. Alternatively, you can run `ppm install asiloisad-pulsar/scroll-keeper` to install a package directly from the GitHub repository.
 
 ## How it works
 
