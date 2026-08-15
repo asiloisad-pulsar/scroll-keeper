@@ -8,7 +8,7 @@ Maintain scroll position during pane resizing and shared-buffer edits. Keeps you
 - **Soft-wrap aware**: Adjusts scroll when soft-wrap recalculates.
 - **Split-editor aware**: Keeps sibling editors stable when another editor inserts or removes lines in the same buffer.
 - **Debounced**: Reduces CPU usage during resize operations.
-- **smooth-scroll integration**: Works with [smooth-scroll](https://github.com/asiloisad/pulsar-smooth-scroll) if installed.
+- **smooth-scroll integration**: Works with [smooth-scroll](https://github.com/asiloisad-pulsar/smooth-scroll) if installed.
 
 ## Installation
 

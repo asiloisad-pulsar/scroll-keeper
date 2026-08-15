@@ -1,7 +1,7 @@
 {
   "name": "scroll-keeper",
   "description": "Maintain scroll position during pane resizing",
-  "repository": "https://github.com/asiloisad/pulsar-scroll-keeper",
+  "repository": "https://github.com/asiloisad-pulsar/scroll-keeper",
   "keywords": [
     "screen",
     "position"
