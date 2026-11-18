@@ -2,6 +2,9 @@
 
 Maintain scroll position during pane resizing and shared-buffer edits. Keeps your cursor or viewport at the same visual position when soft-wrap recalculates or another split editor changes the same buffer.
 
+> [!NOTE]
+> This package is in maintenance mode. In [Lumine](https://github.com/lumine-code/lumine), the editor preserves scroll position during pane resizing and when the same buffer is edited in another split.
+
 ## Features
 
 - **Position preservation**: Maintains cursor's visual position during resize.
